@@ -15,6 +15,27 @@ Model Parameters:
 Usage:
   Run from Abaqus CAE: File > Run Script, or via command line:
     abaqus cae noGUI=cold_spray_simulation.py
+
+Citation:
+  If you use this work, please cite:
+
+  Mishra, A., 2026. Geometric and Topological Deep Learning for Predicting
+  Thermo-mechanical Performance in Cold Spray Deposition Process Modeling.
+  arXiv preprint arXiv:2603.14478.
+  URL: https://arxiv.org/abs/2603.14478
+
+  BibTeX:
+    @misc{mishra2026geometric,
+      author       = {Mishra, A.},
+      title        = {Geometric and Topological Deep Learning for Predicting
+                      Thermo-mechanical Performance in Cold Spray Deposition
+                      Process Modeling},
+      year         = {2026},
+      eprint       = {2603.14478},
+      archivePrefix= {arXiv},
+      primaryClass = {cs.LG},
+      url          = {https://arxiv.org/abs/2603.14478}
+    }
 """
 
 # ── Standard Abaqus imports ───────────────────────────────────────────────────
