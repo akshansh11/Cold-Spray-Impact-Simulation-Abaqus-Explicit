@@ -181,6 +181,26 @@ Recommended contour plots:
 
 ---
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{mishra2026geometric,
+  author       = {Mishra, A.},
+  title        = {Geometric and Topological Deep Learning for Predicting
+                  Thermo-mechanical Performance in Cold Spray Deposition
+                  Process Modeling},
+  year         = {2026},
+  eprint       = {2603.14478},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.LG},
+  url          = {https://arxiv.org/abs/2603.14478}
+}
+```
+
+---
+
 ## License
 
 [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
